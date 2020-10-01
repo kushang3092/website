@@ -31,9 +31,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+# PythonInstaller
+#  Usually these files are written by a python script from a template.
+#  before PythonInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 
@@ -75,10 +75,10 @@ instance/
 # Sphinx documentation
 docs/_build/
 
-# PyBuilder
+# PythonBuilder
 target/
 
-# Jupyter Notebook
+# Jupeter Notebook
 .ipynb_checkpoints
 
 # IPython
